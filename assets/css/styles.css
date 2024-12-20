@@ -650,12 +650,12 @@ border: 2px solid hsla(0, 0%, 100%, .5);
 /*=============== SCROLL BAR ===============*/
 ::-webkit-scrollbar{
   width: .6rem;
-  background-color: var(--black-color);
+  background-color: var(--first-color);
   border-radius: .5rem;
 }
 
 ::-webkit-scrollbar-thumb{
-  background-color: var(--first-color); 
+  background-color: var(--black-color); 
   border-radius: .5rem;
 }
 
